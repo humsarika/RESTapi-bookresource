@@ -1,0 +1,11 @@
+{
+  "name": "sarika",
+  "version": "1.0.0",
+  "description": "\"Bookstore RESTapi with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo : \"No test specified\""
+  },
+  "author": "sarika",
+  "license": "ISC"
+}
