@@ -4,7 +4,8 @@
   "description": "\"Bookstore RESTapi with Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo : \"No test specified\""
+    "test": "echo : \"No test specified\"",
+    "dev": "nodemon index.js"
   },
   "author": "sarika",
   "license": "ISC",
